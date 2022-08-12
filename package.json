@@ -1,0 +1,26 @@
+{
+  "type":"module",
+  "name": "lesson_learn_backend",
+  "version": "1.0.0",
+  "description": "some readme to add",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisisyongsiang/lesson_learn_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisisyongsiang/lesson_learn_backend/issues"
+  },
+  "homepage": "https://github.com/thisisyongsiang/lesson_learn_backend#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "sqlite3": "^5.0.11"
+  }
+}
