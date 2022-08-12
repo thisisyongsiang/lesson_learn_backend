@@ -5,4 +5,5 @@ let connection =new sqlite3.Database('./shopping.db',(err)=>{
     }
     console.log('connected to shopping database');
 });
+
 export {connection};
